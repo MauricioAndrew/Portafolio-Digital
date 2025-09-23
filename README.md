@@ -23,12 +23,11 @@ Si quieres saber más de mi entra en -[Perfil Profesional](https://mauricioandre
 
 1 [Portafolio Digital de Redes Sociales para Tormented Souls🔗](https://linktr.ee/TormentedSouls)
 
-2 [Investigacion de Mercado Completa. Desde el planteamiento inicial hasta el código de interpretación 🔗](insertar_url)
+2 [Investigacion de Mercado Completa. Desde el planteamiento inicial hasta el código de interpretación 🔗](https://youtu.be/-Mi5jS1bxq0)
 
 -Proyectos Adicionales de Python
 
--caracteristica 1
--caractetistica 2
+-Inferencia estadística
 
 
 [![Video introductorio](insertar_url)](insertar_url)
