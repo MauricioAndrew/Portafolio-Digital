@@ -1,5 +1,4 @@
-# portafolio_prueba
-Portafolio Digital
+# Portafolio Digital
 
 [![Mauricio Andrew](images/Investigacion.png)](https://www.youtube.com/)
 
@@ -30,4 +29,4 @@ Si quieres saber más de mi entra en -[Perfil Profesional](insertar_url)
 -caractetistica 2
 
 
-[![Video introductorio](https://img.youtube.com/vi/ssMNCIUPOLI/0.jpg)](https://www.youtube.com/watch?v=ssMNCIUPOLI)
+[![Video introductorio](insertar_url)](insertar_url)
