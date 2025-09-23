@@ -1,23 +1,24 @@
 # Portafolio Digital
 
-[![Mauricio Andrew](images/Investigacion.png)](https://www.youtube.com/)
+[![Mauricio Andrew](images/Investigacion.png)]
 
-En este repositorio encontrarás acerca de mi perfil profesional. información, landing page y proyectos reales.
+Video introductorio([https://www.youtube.com/](https://youtu.be/AJKIY3H1WFU))
 
+En este repositorio encontrarás acerca de mi perfil profesional. información y landing page
+Simplemente debes hacer click en los enlaces destacados y podrás acceder a la información!.
+
+Acá encontrarás proyectos de Código con python para su uso real tanto en aplicaciones de marketing como de Machine learning.
+
+Si quieres saber más de mi entra en -[Perfil Profesional](https://mauricioandrew.github.io/Portafolio-Digital/)
 
 ##INDICE
 
 -[📖Descripcion](#-Descripcion)
+
 -[🚀Proyectos](#-Proyectos)
 
 
 
-
-##📖 Descripcion
-Hola, mi nombre es Mauricio Andrew.
-Me dedico a la estrategia de negocios como Ingeniero en marketing y actualmente aprendiz de programación en Ciencia de Datos
-
-Si quieres saber más de mi entra en -[Perfil Profesional](https://mauricioandrew.github.io/Portafolio-Digital/)
 
 ##### Proyectos
 
@@ -29,5 +30,3 @@ Si quieres saber más de mi entra en -[Perfil Profesional](https://mauricioandre
 
 -Inferencia estadística
 
-
-[![Video introductorio](insertar_url)](insertar_url)
