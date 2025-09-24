@@ -12,6 +12,7 @@ Encontrarás proyectos reales en Código Python para su uso real tanto en aplica
 
 📌# Proyectos #📌
 Basta con que hagas click en los siguientes enlaces y te redigirá a mis trabajos más recientes
+
 👉1 [Portafolio Digital de Redes Sociales para Tormented Souls🔗](https://linktr.ee/TormentedSouls)
 
 👉2 [Investigacion de Mercado Completa. Desde el planteamiento inicial hasta el código de interpretación 🔗](https://youtu.be/-Mi5jS1bxq0)
