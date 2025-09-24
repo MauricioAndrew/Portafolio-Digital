@@ -1,6 +1,6 @@
 # Portafolio Digital
 
-[![Mauricio Andrew](Investigacion.png)]
+[![Mauricio Andrew]
 
 📌Video introductorio - 👉 (Link👉](https://youtu.be/AJKIY3H1WFU))
 
